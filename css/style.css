@@ -63,6 +63,8 @@ a {
   color: var(--main-bg-color);
 }
 
+/***** Header *****/
+
 #logo {
   height: 19px;
 }
@@ -603,7 +605,9 @@ footer h3 {
   }
 }
 
-@media (max-width: 425px) {
+/* Small devices (phones, less than 509px) */
+
+@media (max-width: 509px) {
   .filter {
     flex: 1;
   }
