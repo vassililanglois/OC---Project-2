@@ -607,5 +607,6 @@ footer h3 {
 
   .filter {
     flex: 1 1;
+    min-width: 35%;
   }
 }
