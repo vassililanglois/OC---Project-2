@@ -482,6 +482,9 @@ footer h3 {
     width: 100%;
     padding: 0;
   }
+
+  /***** Header *****/
+
   header {
     height: 115px;
     width: 100%;
